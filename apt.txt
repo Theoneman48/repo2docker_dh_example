@@ -2,4 +2,4 @@ tree
 btop
 cowsay
 nano
-python==3.11
+python3.11
