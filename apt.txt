@@ -1,0 +1,5 @@
+tree
+btop
+cowsay
+nano
+python==3.11
