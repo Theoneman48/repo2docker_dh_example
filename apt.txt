@@ -2,4 +2,3 @@ tree
 btop
 cowsay
 nano
-python3.11
